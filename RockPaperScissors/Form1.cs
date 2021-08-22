@@ -87,7 +87,6 @@ namespace RockPaperScissors
             }
             else
             {
-                ;
                 int index = Type.IndexOf(Input);
                 if ((index+1 == input2)|| (index == 2 && input2== 0))
                 {
