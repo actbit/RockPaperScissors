@@ -1,0 +1,2 @@
+# RockPaperScissors
+30分で実装したじゃんけんするソフトウェアです
